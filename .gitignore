@@ -3,6 +3,7 @@
 /gpu_finder.lib
 /gpu_finder.exp
 *.exe
+/main
 arb4096*.txt
 .vs
 *.so
